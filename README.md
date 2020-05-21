@@ -1,1 +1,1 @@
-# FSM Creation and Anomaly Detection for SCADA systems
+# Anomaly Detection for SCADA systems
