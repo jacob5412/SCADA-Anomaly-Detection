@@ -1,12 +1,19 @@
 # Anomaly Detection for SCADA systems
 
+```
+  __________________     _____  ________      _____   
+ /   _____/\_   ___ \   /  _  \ \______ \    /  _  \  
+ \_____  \ /    \  \/  /  /_\  \ |    |  \  /  /_\  \ 
+ /        \\     \____/    |    \|    `   \/    |    \
+/_______  / \______  /\____|__  /_______  /\____|__  /
+        \/         \/         \/        \/         \/ 
+```
+
 The security of critical infrastructures is decreasing due to the
 apparition of new cyber threats against Supervisory Control and Data Acquisition
 (SCADA) systems. The evolution they have experienced; the use of standard
 hardware and software components or the increase of interconnected devices in
-order to reduce costs and improve efficiency, have contributed to this. This work
-reviews the research effort done towards the development of anomaly detection
-for these specific systems. SCADA systems have a number of peculiarities that
+order to reduce costs and improve efficiency, have contributed to this. SCADA systems have a number of peculiarities that
 make anomaly detection perform better than in traditional information and
 communications technology (ICT) networks. SCADA communications are
 deterministic, and their operation model is often cyclical. Based on this premise,
