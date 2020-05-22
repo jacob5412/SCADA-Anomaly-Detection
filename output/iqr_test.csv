@@ -1,4 +1,4 @@
-column,max_amt,min_amt
+column,upper_bound,lower_bound
 FIT101,2.955513,-0.26422799999999946
 LIT101,1486.5184,-365.8947
 MV101,2.0,0.0
