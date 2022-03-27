@@ -47,3 +47,16 @@ seaborn==0.10.1
 xgboost==1.1.0
 xlrd==1.2.0
 ```
+
+## Acknowledgement
+
+The following personnel were responsible for the dataset collection:
+
+1. SWaT – Sridhar Adepu, Kaung Myat Aung, Desmond Wan, Beebi Siti Salimah Binte Liyakkathali 
+2. WADI – Venkata Reddy
+3. S317 – Nils Tippenhauer, Hamid Reza Ghaeini
+4. EPIC – Ding Liqun, Kandasamy Nandha Kumar, Chuadhry Mujeeb Ahmed
+5. BATADAL – Riccardo Taormina
+6. Blaq_0 – Francisco Furtado, Lauren Goh, Jonathan Heng
+7. CISS 2019 – Desmond Wan, Francisco Furtado
+8. IoT – Yan Lin Aung
