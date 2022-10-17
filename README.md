@@ -9,6 +9,10 @@
         \/         \/         \/        \/         \/ 
 ```
 
+**Paper**: Varkey, M., John, J., & Umadevi, K. S. (2022, June). Automated Anomaly Detection Tool for Industrial Control System. In 2022 IEEE Conference on Dependable and Secure Computing (DSC) (pp. 1-6). IEEE. [(Link)](https://ieeexplore.ieee.org/abstract/document/9888891).
+
+## Introduction
+
 The security of critical infrastructures is decreasing due to the
 apparition of new cyber threats against Supervisory Control and Data Acquisition
 (SCADA) systems. The evolution they have experienced; the use of standard
@@ -52,11 +56,11 @@ xlrd==1.2.0
 
 The following personnel were responsible for the dataset collection:
 
-1. SWaT – Sridhar Adepu, Kaung Myat Aung, Desmond Wan, Beebi Siti Salimah Binte Liyakkathali 
-2. WADI – Venkata Reddy
-3. S317 – Nils Tippenhauer, Hamid Reza Ghaeini
-4. EPIC – Ding Liqun, Kandasamy Nandha Kumar, Chuadhry Mujeeb Ahmed
-5. BATADAL – Riccardo Taormina
-6. Blaq_0 – Francisco Furtado, Lauren Goh, Jonathan Heng
-7. CISS 2019 – Desmond Wan, Francisco Furtado
-8. IoT – Yan Lin Aung
+1. **SWaT** – Sridhar Adepu, Kaung Myat Aung, Desmond Wan, Beebi Siti Salimah Binte Liyakkathali 
+2. **WADI** – Venkata Reddy
+3. **S317** – Nils Tippenhauer, Hamid Reza Ghaeini
+4. **EPIC** – Ding Liqun, Kandasamy Nandha Kumar, Chuadhry Mujeeb Ahmed
+5. **BATADAL** – Riccardo Taormina
+6. **Blaq_0** – Francisco Furtado, Lauren Goh, Jonathan Heng
+7. **CISS 2019** – Desmond Wan, Francisco Furtado
+8. **IoT** – Yan Lin Aung
